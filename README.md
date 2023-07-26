@@ -1,4 +1,5 @@
 # Global_Kart_powerBI
+Problem Statement: Suppose we have a company called Global_Kart - they are online retail company seel products all over the world, but they need to increase there Profit also they want to find  out the top Products which hots their profits , also thay want insight over past 4 year data.
 Main Dashboard/ Report View:
 <img width="667" alt="image" src="https://github.com/RohitRaj-03/Global_Kart_powerBI/assets/138128062/100d46a9-9dc3-4904-a9d1-ccbb3ad0106f">
 Data view:
